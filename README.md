@@ -1,3 +1,4 @@
+Testing.
 # Welcome to the Learning Journey "Building side-by-side extensions on SAP BTP"
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/extension-suite-learning-journey)](https://api.reuse.software/info/github.com/SAP-samples/extension-suite-learning-journey)
 
